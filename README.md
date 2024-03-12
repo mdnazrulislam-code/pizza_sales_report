@@ -2,6 +2,8 @@
 
 In this project I designed an interactive dashboard for the Pizza Sales. With the most desired KPI's from the raw data from the SQL database. There are clear assumes from the visualize data so that the Manager can take a great data driven decision. 
 
+![pizza sales dashboard](https://github.com/mdnazrulislam-code/pizza_sales_report/blob/main/Screenshot%202024-03-12%20231723.png)
+
 This dashboard will help the sales manager to take a data driven decision to develop pizza sales. Here I  would like to mention some information the dashboard.
 KPI's
 ---------------
